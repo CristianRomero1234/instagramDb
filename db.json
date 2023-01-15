@@ -1,0 +1,32 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Jon Doe",
+            "handle": "Don_Joe"
+        },
+        {
+            "id": 2,
+            "name": "Jane Doe",
+            "handle": "DJane"
+        },
+        {
+            "id": 3,
+            "name": "Juan Rodriguez",
+            "handle": "jRod"
+        },
+        {
+            "id":4,
+            "name":"Maria Perez",
+            "handle": "mariPer"
+        }
+    ],
+    "posts":[
+        {
+            "id":1,
+            "userId": 1,
+            "imageUrl":"https://jsonplaceholder.typicode.com/albums/1/photos",
+            "content":"Hello World! Good morning, fresh coffee and already coding"
+        }
+    ]
+}
