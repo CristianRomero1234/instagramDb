@@ -27,6 +27,12 @@
             "userId": 1,
             "imageUrl":"https://st2.depositphotos.com/4544563/9926/i/950/depositphotos_99267002-stock-photo-coffee-table-with-laptop-and.jpg",
             "content":"Hello World! Good morning, fresh coffee and already coding"
+        },
+        {
+            "id":2,
+            "userId":4,
+            "imageUrl":"https://images.unsplash.com/photo-1594568284297-7c64464062b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bm8lMjBjb3B5cmlnaHR8ZW58MHx8MHx8&w=1000&q=80",
+            "content":"Persue happiness, reach the limits, once there take a picture of the view..."
         }
     ]
 }
