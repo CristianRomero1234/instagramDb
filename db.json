@@ -16,23 +16,111 @@
             "handle": "jRod"
         },
         {
-            "id":4,
-            "name":"Maria Perez",
+            "id": 4,
+            "name": "Maria Perez",
             "handle": "mariPer"
-        }
-    ],
-    "posts":[
-        {
-            "id":1,
-            "userId": 1,
-            "imageUrl":"https://st2.depositphotos.com/4544563/9926/i/950/depositphotos_99267002-stock-photo-coffee-table-with-laptop-and.jpg",
-            "content":"Hello World! Good morning, fresh coffee and already coding"
         },
         {
-            "id":2,
-            "userId":4,
-            "imageUrl":"https://images.unsplash.com/photo-1594568284297-7c64464062b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bm8lMjBjb3B5cmlnaHR8ZW58MHx8MHx8&w=1000&q=80",
-            "content":"Persue happiness, reach the limits, once there take a picture of the view..."
+            "id": 5,
+            "name": "Theodore Handle",
+            "handle": "handle_This"
+        },
+        {
+            "id": 6,
+            "name": "Rodney Artichoke",
+            "handle": "Rodney_artichokey"
+        },
+        {
+            "id": 7,
+            "name": "Alan Fresco",
+            "handle": "fresh_Al"
+        },
+        {
+            "id": 8,
+            "name": "Sue Shei",
+            "handle": "californiaTempura"
+        },
+        {
+            "id": 9,
+            "name": "Weir Doe",
+            "handle": "Doe_it"
+        },
+        {
+            "id": 10,
+            "name": "Justin Case",
+            "handle": "just_Justin00"
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "userId": 1,
+            "imageUrl": "https://st2.depositphotos.com/4544563/9926/i/950/depositphotos_99267002-stock-photo-coffee-table-with-laptop-and.jpg",
+            "content": "Hello World! Good morning, fresh coffee and already coding",
+            "likes": "256 Likes"
+        },
+        {
+            "id": 2,
+            "userId": 4,
+            "imageUrl": "https://images.unsplash.com/photo-1594568284297-7c64464062b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bm8lMjBjb3B5cmlnaHR8ZW58MHx8MHx8&w=1000&q=80",
+            "content": "Persue happiness, reach the limits, once there take a picture of the view...",
+            "likes": "78 Likes"
+        },
+        {
+            "id": 3,
+            "userId": 3,
+            "imageUrl": "https://i.vimeocdn.com/video/530349136-61f613a4a1b7df2e935e9d8bd0e12ef14351301765b831a7be4d407fa8757214-d_640x360.jpg",
+            "content": "Thanks to the new advancements in technology we can observe the vast universe that sorround us #Space",
+            "likes": "123 Likes"
+        },
+        {
+            "id": 4,
+            "userId": 2,
+            "imageUrl": "https://miro.medium.com/max/490/1*ZfoRF4A1LW2onuT_S-8Fxg.png",
+            "content": "Creating an Instagram Front end Clone, with a non-existent database, and still this post being sent via an API #Hmtl #Javascript #CSS #Copyleft #Learning #DontSueMeMeta",
+            "likes": "264 Likes"
+        },
+        {
+            "id": 5,
+            "userId": 10,
+            "imageUrl": "https://thumbs.dreamstime.com/b/mural-art-jef-aerosol-ushuaia-argentina-april-any-piece-artwork-painted-applied-directly-53734358.jpg",
+            "content": "Tango que tomar una foto de esto",
+            "likes": "1 Like"
+        },
+        {
+            "id": 6,
+            "userId": 10,
+            "imageUrl": "https://thumbs.dreamstime.com/b/jun-moscow-russia-pulp-fiction-selfie-graffiti-zoom-zoomstreetart-lusinovskaya-street-modern-underground-73336235.jpg",
+            "content": "Selfie-ction",
+            "likes": "1 Like"
+        },
+        {
+            "id": 7,
+            "userId": 7,
+            "imageUrl": "https://media.istockphoto.com/id/1355663450/photo/how-to-disappear.jpg?b=1&s=170667a&w=0&k=20&c=Z_qa6JgcBNauPOOI87QnsPY2Mf1HKiEQ5Bfg4FIGJm0=",
+            "content": "Moving target",
+            "likes": "330 Likes"
+        },
+        {
+            "id": 8,
+            "userId": 9,
+            "imageUrl": "https://www.cnil.fr/sites/default/files/styles/contenu-generique-visuel/public/thumbnails/image/applications-morphing_975x500.jpg?itok=XyVgy58y",
+            "content": "chat? ",
+            "likes": "330 Likes"
+        },
+        {
+            "id":9,
+            "userId":5,
+            "imageUrl":"https://www.sustainabletravelireland.ie/wp-content/uploads/2020/10/Food-Day-Post-768x480.png",
+            "content":"Eating healthy is part of a non-chocolate way of life I do not accept nor want to be part of",
+            "likes":"999 Likes"
+        },
+        {
+            "id":10,
+            "userId":8,
+            "imageUrl":"https://barcelonalowdown.com/barcelona-lowdown/uploads/2017/09/barcelona-central-post-office.jpg",
+            "content":"#Barcelona",
+            "likes":"1910 Likes"
         }
     ]
 }
